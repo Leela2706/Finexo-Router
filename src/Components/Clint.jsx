@@ -31,7 +31,7 @@ export default class Clint extends Component {
                                             <i className="fa fa-quote-left" aria-hidden="true" />
                                         </div>
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.  </p>
                                     </div>
                                 </div>
                             </div>
